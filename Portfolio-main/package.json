@@ -1,7 +1,7 @@
 {
   "name": "priyanka-portfolio",
   "version": "0.1.0",
-  "homepage": "https://priyamadas.github.io/Portfolio",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
